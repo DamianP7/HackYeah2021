@@ -1,7 +1,17 @@
 
-public static class AnimTrigger
+public enum AnimTrigger
 {
-	public const string WALK = "Walk";
-	public const string CLEAN_TEETH = "CleanTeeth";
+    None,
+    Idle,
+    Walk,
+    CleanTeeth,
+
+}
+
+public enum ObjectAnimTriggger
+{
+    None,
+    TurnOn,
+    TurnOff,
 
 }

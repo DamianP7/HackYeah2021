@@ -5,8 +5,9 @@ using UnityEngine;
 public class Character : MonoBehaviour
 {
 	public List<POI> actions;
+	public Animator animator;
 
-	[SerializeField] Animator animator;
+
 	[SerializeField] float speed;
 
 	[SerializeField]
@@ -18,6 +19,7 @@ public class Character : MonoBehaviour
 	float poiDistanceTolerance;
 
 	List<POI> actionsToDo = new List<POI>();
+	Dictionary<ActionId, int> habits = new Dictionary<ActionId, int>();
 
 	int lastAction = 0;
 	Vector3 target;
@@ -105,16 +107,11 @@ public class Character : MonoBehaviour
 		}
 		else
 		{
-			animator.SetTrigger(AnimTrigger.WALK);
+			animator.SetTrigger(AnimTrigger.Walk.ToString());
 			target = nextPoi.placeOfAction;
 			actionsToDo.Add(nextPoi);
 			waitForAction = true;
 		}
-
-	}
-
-	public void DoAction(Action action)
-	{
 
 	}
 
@@ -124,5 +121,34 @@ public class Character : MonoBehaviour
 			return false;
 		else
 			return true;
+	}
+
+	public bool CheckHabit(ActionId action)
+	{
+		if(habits.ContainsKey(action))
+		{
+			if (habits[action] > 3)
+				return true;
+			else
+				return false;
+		}
+		else
+		{
+			habits.Add(action, 0);
+			return false;
+		}
+	}
+
+	public void ReinforceHabit(ActionId action)
+	{
+
+		if (habits.ContainsKey(action))
+		{
+			habits[action]++;
+		}
+		else
+		{
+			habits.Add(action, 1);
+		}
 	}
 }

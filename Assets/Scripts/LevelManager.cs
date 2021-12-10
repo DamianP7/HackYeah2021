@@ -8,4 +8,5 @@ public class LevelManager : Singleton<LevelManager>
 
 	public POI stairsUp, stairsDown;
 
+	public Character character;
 }

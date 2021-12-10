@@ -6,7 +6,7 @@ using UnityEngine;
 public class Action
 {
 	public Vector3 position;
-	public string AnimationTrigger = AnimTrigger.WALK;
+	public string AnimationTrigger;
 	public string AnimationEcoTrigger;
 
 	public Action(Vector3 position, string animationTrigger = "", string animationEcoTrigger = "")
