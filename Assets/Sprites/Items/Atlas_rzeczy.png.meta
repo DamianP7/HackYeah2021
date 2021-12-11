@@ -338,6 +338,51 @@ TextureImporter:
   - first:
       213: -7828815228487447727
     second: tootbrush
+  - first:
+      213: 6024594391057140963
+    second: monitor_1_hack
+  - first:
+      213: -7435356668326497446
+    second: monitor_1_game1
+  - first:
+      213: -2152094009220180471
+    second: monitor_1_game2
+  - first:
+      213: 765212657760653790
+    second: monitor_2_news
+  - first:
+      213: -5518904221648535224
+    second: monitor_2_hack
+  - first:
+      213: 7366550656362376483
+    second: monitor_2_news_2
+  - first:
+      213: 1399140990442385112
+    second: tv_news
+  - first:
+      213: -4215647683695919279
+    second: tv_hack
+  - first:
+      213: 6360863820644625249
+    second: tv_news_2
+  - first:
+      213: -9129316084064316520
+    second: tv_shelf
+  - first:
+      213: 4135779827640294473
+    second: Atlas_rzeczy_122
+  - first:
+      213: -6005934721623109841
+    second: Atlas_rzeczy_123
+  - first:
+      213: 9061798244502950819
+    second: freezer_1_opened
+  - first:
+      213: 5399350342260748933
+    second: freezer_2_open
+  - first:
+      213: -2810845091650140100
+    second: light_8
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -1169,9 +1214,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 3011
-        y: 6948
+        y: 7361
         width: 345
-        height: 642
+        height: 229
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1295,9 +1340,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 4807
-        y: 7561
+        y: 7549
         width: 441
-        height: 288
+        height: 295
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1357,9 +1402,9 @@ TextureImporter:
       name: chair_1
       rect:
         serializedVersion: 2
-        x: 6319
+        x: 6332
         y: 7203
-        width: 296
+        width: 283
         height: 479
       alignment: 7
       pivot: {x: 0.5, y: 0}
@@ -2054,8 +2099,8 @@ TextureImporter:
         y: 6040
         width: 408
         height: 825
-      alignment: 9
-      pivot: {x: 0.90318626, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2346,7 +2391,7 @@ TextureImporter:
         serializedVersion: 2
         x: 1036
         y: 5669
-        width: 273
+        width: 170
         height: 225
       alignment: 7
       pivot: {x: 0.5, y: 0}
@@ -2656,13 +2701,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tv
+      name: tv_shelf
       rect:
         serializedVersion: 2
         x: 1777
         y: 6028
         width: 525
-        height: 532
+        height: 220
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2723,7 +2768,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 7011
-        y: 6179
+        y: 6173
         width: 350
         height: 684
       alignment: 7
@@ -2798,6 +2843,321 @@ TextureImporter:
       bones: []
       spriteID: 15b46dd47067a5390800000000000000
       internalID: -7828815228487447727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monitor_1_hack
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 4928
+        width: 279
+        height: 249
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec85c2dda8ab9350800000000000000
+      internalID: 6024594391057140963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monitor_1_game1
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 4928
+        width: 279
+        height: 249
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a53311e118e40d890800000000000000
+      internalID: -7435356668326497446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monitor_1_game2
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 4927
+        width: 283
+        height: 250
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9065f21a6e93222e0800000000000000
+      internalID: -2152094009220180471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monitor_2_news
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 4569
+        width: 442
+        height: 333
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed1d473abd49e9a00800000000000000
+      internalID: 765212657760653790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monitor_2_hack
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 4573
+        width: 442
+        height: 334
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8414c3fc9d9e863b0800000000000000
+      internalID: -5518904221648535224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monitor_2_news_2
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 4573
+        width: 446
+        height: 334
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32d6664dace3b3660800000000000000
+      internalID: 7366550656362376483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tv_news
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 4257
+        width: 445
+        height: 295
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dea10e515fba6310800000000000000
+      internalID: 1399140990442385112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tv_hack
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 4257
+        width: 446
+        height: 295
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15f3b1364c20f75c0800000000000000
+      internalID: -4215647683695919279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tv_news_2
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 4257
+        width: 443
+        height: 299
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16b282e81f3564850800000000000000
+      internalID: 6360863820644625249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tv
+      rect:
+        serializedVersion: 2
+        x: 1827
+        y: 6273
+        width: 446
+        height: 288
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 893161704672e4180800000000000000
+      internalID: -9129316084064316520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_rzeczy_122
+      rect:
+        serializedVersion: 2
+        x: 3036
+        y: 6948
+        width: 308
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94cd9b747dd356930800000000000000
+      internalID: 4135779827640294473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_rzeczy_123
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 5666
+        width: 99
+        height: 228
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f48750132a6aca0800000000000000
+      internalID: -6005934721623109841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freezer_1_opened
+      rect:
+        serializedVersion: 2
+        x: 4465
+        y: 5115
+        width: 358
+        height: 796
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a35bdded79f1cd70800000000000000
+      internalID: 9061798244502950819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freezer_2_open
+      rect:
+        serializedVersion: 2
+        x: 4890
+        y: 5107
+        width: 354
+        height: 800
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 582f55087885eea40800000000000000
+      internalID: 5399350342260748933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_8
+      rect:
+        serializedVersion: 2
+        x: 5315
+        y: 5823
+        width: 229
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c380b89184fddf8d0800000000000000
+      internalID: -2810845091650140100
       vertices: []
       indices: 
       edges: []

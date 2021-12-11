@@ -10,6 +10,9 @@ public class Door : MonoBehaviour
 
 	SpriteRenderer spriteRenderer;
 
+	[SerializeField]
+	int leftRoom, rightRoom;
+
 	private void Awake()
 	{
 		spriteRenderer = GetComponent<SpriteRenderer>();
@@ -19,6 +22,8 @@ public class Door : MonoBehaviour
 	{
 		if (collision.tag == "Player")
 			spriteRenderer.sprite = openedDoor;
+
+		LevelManager.Instance.playerRoom = collision.transform.position.x > transform.position.x ? leftRoom : rightRoom;
 	}
 
 	private void OnTriggerExit2D(Collider2D collision)

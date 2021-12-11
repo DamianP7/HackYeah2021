@@ -9,4 +9,6 @@ public class LevelManager : Singleton<LevelManager>
 	public POIStairs stairsUp, stairsDown;
 
 	public Character character;
+
+	public int playerRoom;
 }

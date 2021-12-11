@@ -39,6 +39,11 @@ public class Character : MonoBehaviour
 	{
 		if(target != transform.position)
 		{
+			if (transform.position.x > target.x)
+				transform.localScale = new Vector3(1, 1, 1);
+			else
+				transform.localScale = new Vector3(-1, 1, 1);
+
 			transform.position = Vector3.MoveTowards(transform.position, target, Time.deltaTime * speed);
 		}
 		else if (waitForAction)
@@ -52,7 +57,6 @@ public class Character : MonoBehaviour
 	{
 		if (!IsInPosition(poi.placeOfAction))
 		{
-			Debug.Log("To Do: " + poi.gameObject.name);
 			actionsToDo.Add(poi);
 
 			if (Mathf.Abs(poi.placeOfAction.y - transform.position.y) > LevelManager.Instance.floorHeight)
@@ -69,7 +73,11 @@ public class Character : MonoBehaviour
 		}
 		else
 		{
-			Debug.Log("Executing: " + poi.gameObject.name);
+			if(poi.isFromRight)
+				transform.localScale = new Vector3(-1, 1, 1);
+			else
+				transform.localScale = new Vector3(1, 1, 1);
+
 			poi.Execute(this);
 		}
 	}

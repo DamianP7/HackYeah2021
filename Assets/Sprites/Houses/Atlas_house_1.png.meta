@@ -124,12 +124,12 @@ TextureImporter:
       name: Atlas_house_1_frame
       rect:
         serializedVersion: 2
-        x: 1569
+        x: 1173
         y: 4682
-        width: 5379
+        width: 6213
         height: 3621
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -145,12 +145,12 @@ TextureImporter:
       name: Atlas_house_1_walls
       rect:
         serializedVersion: 2
-        x: 1531
-        y: 744
-        width: 5380
-        height: 3621
+        x: 1173
+        y: 728
+        width: 6213
+        height: 3624
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []

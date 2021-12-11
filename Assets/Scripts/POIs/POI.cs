@@ -6,6 +6,7 @@ public abstract class POI : MonoBehaviour
 {
 	public Vector3 placeOfAction;
 	public POIType POIType;
+	public bool isFromRight = false;
 
 	public abstract void Execute(Character character);
 

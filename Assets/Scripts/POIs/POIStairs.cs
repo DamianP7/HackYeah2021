@@ -12,7 +12,11 @@ public class POIStairs : POI
     [SerializeField] float timeOpenToTeleport;
     [SerializeField] float timeTeleportToClose;
 
+    [SerializeField]
+    int roomId;
+
     POIStairs otherDoor;
+
 
     private void Awake()
     {
@@ -61,6 +65,8 @@ public class POIStairs : POI
         spriteRenderer.sprite = openedDoor;
         yield return new WaitForSeconds(timeTeleportToClose / 2);
         spriteRenderer.sprite = closedDoor;
+
+        LevelManager.Instance.playerRoom = roomId;
     }
 
 }
