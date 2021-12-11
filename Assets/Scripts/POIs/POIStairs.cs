@@ -44,6 +44,7 @@ public class POIStairs : POI
     IEnumerator OpenAndTeleport(Character character)
     {
         spriteRenderer.sprite = openedDoor;
+        character.animator.SetTrigger(AnimTrigger.Idle.ToString());
         yield return new WaitForSeconds(timeOpenToTeleport);
 
         character.gameObject.SetActive(false);
@@ -52,6 +53,7 @@ public class POIStairs : POI
         spriteRenderer.sprite = closedDoor;
 
         otherDoor.SpawnHereCharacter();
+        character.animator.SetTrigger(AnimTrigger.Walk.ToString());
         character.transform.position = otherDoor.placeOfAction;
         character.gameObject.SetActive(true);
         character.ExecuteNextAction();

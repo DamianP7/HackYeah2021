@@ -383,6 +383,24 @@ TextureImporter:
   - first:
       213: -2810845091650140100
     second: light_8
+  - first:
+      213: -3957627597814529661
+    second: UI_heart
+  - first:
+      213: -7111894680992203539
+    second: UI_points_bar
+  - first:
+      213: 4612340485340460954
+    second: UI_bar
+  - first:
+      213: -6818409297774532541
+    second: UI_mask
+  - first:
+      213: 7329920650423569095
+    second: UI_ready_bar
+  - first:
+      213: 1550062707943326507
+    second: UI_point
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -2099,8 +2117,8 @@ TextureImporter:
         y: 6040
         width: 408
         height: 825
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 9
+      pivot: {x: 0.8951045, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3158,6 +3176,132 @@ TextureImporter:
       bones: []
       spriteID: c380b89184fddf8d0800000000000000
       internalID: -2810845091650140100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_heart
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 3798
+        width: 354
+        height: 321
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3818bfe0baea319c0800000000000000
+      internalID: -3957627597814529661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_points_bar
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 3744
+        width: 762
+        height: 375
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec3873d7797d4d90800000000000000
+      internalID: -7111894680992203539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_bar
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 3873
+        width: 129
+        height: 125
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a97fed3fb33520040800000000000000
+      internalID: 4612340485340460954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_mask
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 3869
+        width: 696
+        height: 133
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 348ade08ed42061a0800000000000000
+      internalID: -6818409297774532541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_ready_bar
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 3340
+        width: 984
+        height: 375
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ca0c48fefb19b560800000000000000
+      internalID: 7329920650423569095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_point
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 3598
+        width: 261
+        height: 142
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b23ca8ef1dde28510800000000000000
+      internalID: 1550062707943326507
       vertices: []
       indices: 
       edges: []

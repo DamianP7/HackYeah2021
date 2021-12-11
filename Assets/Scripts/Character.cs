@@ -10,9 +10,7 @@ public class Character : MonoBehaviour
 
 	[SerializeField] float speed;
 
-	[SerializeField]
 	POI stairsUp;
-	[SerializeField]
 	POI stairsDown;
 
 	[SerializeField]
@@ -32,6 +30,8 @@ public class Character : MonoBehaviour
 
 	void Start()
 	{
+		stairsDown = LevelManager.Instance.stairsDown;
+		stairsUp = LevelManager.Instance.stairsUp;
 		ExecuteNextAction();	
 	}
 

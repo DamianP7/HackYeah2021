@@ -9,6 +9,7 @@ public class POIObject : POI
     public float actionTime;
     public Animator objectAnimator;
     public bool disableWhenFinish;
+    [SerializeField] Collider2D collider2D;
 
     [Tooltip("If true character will disable/fix it after some time")]
     public bool canBeDisabledAfterTime;
@@ -27,6 +28,12 @@ public class POIObject : POI
     float timer;
     float reactionTimer;
     bool isTurnOn;
+
+    private void Start()
+    {
+        if (collider2D == null)
+            collider2D = GetComponent<Collider2D>();
+    }
 
     public override void Execute(Character character)
     {
@@ -77,10 +84,17 @@ public class POIObject : POI
         if (reactionTimer > 0)
         {
             character.ReinforceHabit(action);
-
+            GameManager.Instance.EcoPoints++;
         }
 
         DisableObject();
+        EcoAnimation();
     }
 
+    void EcoAnimation()
+    {
+        Vector3 point = collider2D.transform.position;
+        point.y += 0.5f;
+        EcoPoint.Instance.SpawnOnPoint(point);
+    }
 }

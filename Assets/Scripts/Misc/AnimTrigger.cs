@@ -7,6 +7,7 @@ public enum AnimTrigger
     CleanTeeth,
     SitWatch,
     SitPlay,
+    Freezer,
 }
 
 public enum ObjectAnimTriggger

@@ -46,13 +46,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a6e985c7ed6bb244483e66571e0e4da6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  actions:
-  - {fileID: 0}
-  - {fileID: 0}
+  actions: []
   animator: {fileID: 1609621054431114812}
   speed: 2
-  stairsUp: {fileID: 0}
-  stairsDown: {fileID: 0}
   poiDistanceTolerance: 0.5
 --- !u!50 &3218963905246515398
 Rigidbody2D:

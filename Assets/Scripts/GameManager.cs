@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class GameManager : MonoBehaviour
+public class GameManager : Singleton<GameManager>
 {
     public int EcoPoints
     {
@@ -12,7 +12,7 @@ public class GameManager : MonoBehaviour
         {
             ecoPoints = value;
             Debug.Log("Eco points: " + value);
-            //ecoPointsText.text = ecoPoints.ToString();
+            ecoPointsBar.fillAmount = ecoPoints * 0.1f;
         }
     }
 
@@ -29,7 +29,7 @@ public class GameManager : MonoBehaviour
 
 
     [SerializeField]
-    Text ecoPointsText;
+    Image ecoPointsBar;
     Text moneyText;
 
     private int ecoPoints;

@@ -4,6 +4,7 @@ public enum ActionId
 	WatchTv,
 	CleanTeeth,
 	PlayOnPc,
+	Freezer,
 }
 
 public enum POIType
