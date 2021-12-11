@@ -1,12 +1,68 @@
-﻿public class POIStairs : POI
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+[RequireComponent(typeof(SpriteRenderer))]
+public class POIStairs : POI
 {
-    public override void Execute(Character character)
+    [SerializeField]
+    Sprite openedDoor, closedDoor;
+
+    SpriteRenderer spriteRenderer;
+    [SerializeField] float timeOpenToTeleport;
+    [SerializeField] float timeTeleportToClose;
+
+    POIStairs otherDoor;
+
+    private void Awake()
+    {
+        spriteRenderer = GetComponent<SpriteRenderer>();
+    }
+
+    private void Start()
     {
         if (POIType == POIType.StairsUp)
-            character.transform.position = LevelManager.Instance.stairsDown.placeOfAction;
+            otherDoor = LevelManager.Instance.stairsDown;
         else
-            character.transform.position = LevelManager.Instance.stairsUp.placeOfAction;
+            otherDoor = LevelManager.Instance.stairsUp;
     }
+
+    public override void Execute(Character character)
+    {
+        StartCoroutine(OpenAndTeleport(character));
+    }
+
+    public void SpawnHereCharacter()
+    {
+        StartCoroutine(CloseDoor());
+    }
+
+    IEnumerator OpenAndTeleport(Character character)
+    {
+        spriteRenderer.sprite = openedDoor;
+        yield return new WaitForSeconds(timeOpenToTeleport);
+
+        character.gameObject.SetActive(false);
+
+        yield return new WaitForSeconds(timeTeleportToClose/2);
+        spriteRenderer.sprite = closedDoor;
+
+        otherDoor.SpawnHereCharacter();
+        character.transform.position = otherDoor.placeOfAction;
+        character.gameObject.SetActive(true);
+        character.ExecuteNextAction();
+
+        yield return new WaitForSeconds(timeTeleportToClose / 2);
+
+    }
+
+    IEnumerator CloseDoor()
+    {
+        spriteRenderer.sprite = openedDoor;
+        yield return new WaitForSeconds(timeTeleportToClose / 2);
+        spriteRenderer.sprite = closedDoor;
+    }
+
 }
 
 

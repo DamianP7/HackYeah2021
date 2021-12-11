@@ -1,0 +1,2685 @@
+fileFormatVersion: 2
+guid: ee890ff49cd00a742995f83261eb635a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9055872783669840481
+    second: freezer_1
+  - first:
+      213: 2752004592241728267
+    second: freezer_2
+  - first:
+      213: 1640751449754827509
+    second: kitchen_sink_1
+  - first:
+      213: 5820095808398607326
+    second: kitchen_sink_2
+  - first:
+      213: 2325326899987340234
+    second: kitchen_sink_3
+  - first:
+      213: -7869462727442051961
+    second: kitchen_cupboard_1
+  - first:
+      213: -8383262321087711301
+    second: kitchen_cupboard_2
+  - first:
+      213: 8644397882803773244
+    second: kitchen_cupboard_3
+  - first:
+      213: 2978219297176469560
+    second: kitchen_cupboard_4
+  - first:
+      213: 7568513492468177328
+    second: kitchen_cupboard_5
+  - first:
+      213: -3312120945001144374
+    second: stove_1
+  - first:
+      213: 7875016854791846232
+    second: stove_2
+  - first:
+      213: -5727946724436516002
+    second: stove_3
+  - first:
+      213: -1335540788313104203
+    second: blackboard_1
+  - first:
+      213: -5891047159569775294
+    second: kitchen_shelf_1
+  - first:
+      213: 4620719909745806147
+    second: kitchen_shelf_2
+  - first:
+      213: 1770671629506440596
+    second: rag_3
+  - first:
+      213: 1195002119325008051
+    second: rag_4
+  - first:
+      213: -4597343300431913785
+    second: pot_1
+  - first:
+      213: -7841851751891103330
+    second: pan_1
+  - first:
+      213: 7091691021495559786
+    second: bin_1
+  - first:
+      213: 3778601065421478752
+    second: microvawe_1
+  - first:
+      213: -6203724805898563676
+    second: rag_1
+  - first:
+      213: 4645801816128656909
+    second: rag_2
+  - first:
+      213: -7758879517679733905
+    second: pot_2
+  - first:
+      213: -6548358477974982632
+    second: kettle_1
+  - first:
+      213: 219617118998674866
+    second: bathroom_cabinet_1
+  - first:
+      213: 3461942015491144617
+    second: bathroom_sink_1
+  - first:
+      213: 7666092480649316049
+    second: bathroom_shelf_1
+  - first:
+      213: 6080012535518041705
+    second: shower_1
+  - first:
+      213: -2213833517405305314
+    second: washing_mashine_1
+  - first:
+      213: 2239624829648514345
+    second: bathroom_shelf_3
+  - first:
+      213: 7418229711589545470
+    second: shower_2
+  - first:
+      213: -3266880974593298784
+    second: bathroom_shelf_4
+  - first:
+      213: 140004976880017838
+    second: bathroom_sink_2
+  - first:
+      213: 8538676148108254993
+    second: plant_6
+  - first:
+      213: -3421270549630868103
+    second: plant_5
+  - first:
+      213: -4404473257712534618
+    second: plant_4
+  - first:
+      213: -4754394825093198633
+    second: plant_3
+  - first:
+      213: -2121722431889273421
+    second: monitor_1
+  - first:
+      213: 1306576977255987811
+    second: monitor_3
+  - first:
+      213: 1255146495257087639
+    second: sack_2_teddybear
+  - first:
+      213: 734939135901221724
+    second: sack_2
+  - first:
+      213: 7430462614952358670
+    second: chair_1
+  - first:
+      213: -4410100367636876696
+    second: light_1
+  - first:
+      213: -8807885317214947342
+    second: play_station
+  - first:
+      213: -3098247542364819238
+    second: pc
+  - first:
+      213: 5145549297976354650
+    second: monitor_2
+  - first:
+      213: 7583160557393077142
+    second: sack_1_teddybear
+  - first:
+      213: 1174027673944664101
+    second: desk_1
+  - first:
+      213: 6902639916475677124
+    second: bathroom_towel_3
+  - first:
+      213: 3141367061951753195
+    second: bathroom_shelf_5
+  - first:
+      213: -1988599489633643723
+    second: heater_1
+  - first:
+      213: -396928264895494893
+    second: heater_2
+  - first:
+      213: 2236869154481647839
+    second: gamepad
+  - first:
+      213: -4383812394360074397
+    second: speaker_subwoofer
+  - first:
+      213: -6407553072103173522
+    second: speaker
+  - first:
+      213: -1252123653167959436
+    second: sack_1
+  - first:
+      213: 3387713398190221111
+    second: shelf_1
+  - first:
+      213: -1929213770232935829
+    second: bathroom_towel_1
+  - first:
+      213: 8537862220730803896
+    second: bathroom_towel_2
+  - first:
+      213: -4538818569143878686
+    second: bin_2
+  - first:
+      213: -8604898484730804567
+    second: bin_3
+  - first:
+      213: -2260553695294089762
+    second: washing_mashine_2
+  - first:
+      213: -7218538012364779372
+    second: Atlas_rzeczy_64
+  - first:
+      213: -2920221616485707096
+    second: light_2
+  - first:
+      213: 5137973048696642226
+    second: plant_1
+  - first:
+      213: 4734377167140315754
+    second: plant_2
+  - first:
+      213: -7160592012503465065
+    second: light_3
+  - first:
+      213: -8266167620470819023
+    second: shelf_2
+  - first:
+      213: -5612049349060971303
+    second: shelf_4
+  - first:
+      213: 5238283839336403530
+    second: speaker_2
+  - first:
+      213: 4048523407484583566
+    second: cabinet_1
+  - first:
+      213: 5223768626534563758
+    second: cabinet_2
+  - first:
+      213: 7160309232618987304
+    second: cabinet_3
+  - first:
+      213: 5376362458112302818
+    second: stairs_door_closed
+  - first:
+      213: -963290771789362545
+    second: stairs_door_opened
+  - first:
+      213: -203932033021502716
+    second: door_opened
+  - first:
+      213: 6392679200812600861
+    second: door_closed
+  - first:
+      213: 239544016065987574
+    second: shelf_3
+  - first:
+      213: 6007535581682070661
+    second: tv
+  - first:
+      213: 8424808951402314166
+    second: cabinet_5
+  - first:
+      213: -7513583922231445048
+    second: wardrobe_1
+  - first:
+      213: 6899217617404642927
+    second: couch_1
+  - first:
+      213: 4552986079208765845
+    second: chair_3
+  - first:
+      213: -8378659837627925997
+    second: chair_2
+  - first:
+      213: 9076237160671093419
+    second: tv
+  - first:
+      213: 7378689047767158073
+    second: couch_2
+  - first:
+      213: -5811805413072498710
+    second: cabinet_4
+  - first:
+      213: 432437201596462614
+    second: cabinet_6
+  - first:
+      213: 5441534161643147025
+    second: light_2
+  - first:
+      213: -1376928784699635146
+    second: plant_8
+  - first:
+      213: 8050293724431060914
+    second: plant_9
+  - first:
+      213: 4373444565882168695
+    second: pictures_1
+  - first:
+      213: -1754650481771556161
+    second: Atlas_rzeczy_94
+  - first:
+      213: 2029112413767489736
+    second: light_4
+  - first:
+      213: 8429181970619294313
+    second: shelf_5
+  - first:
+      213: -2361998085898005797
+    second: wardrobe_2
+  - first:
+      213: 3265844523755671865
+    second: pictures_2
+  - first:
+      213: 4243460566830230379
+    second: shelf_6
+  - first:
+      213: 4446532784883418025
+    second: cabinet_10
+  - first:
+      213: -5394535944861643343
+    second: chair_5
+  - first:
+      213: -1218644496795343726
+    second: couch_3
+  - first:
+      213: 763977355834227852
+    second: cabinet_7
+  - first:
+      213: -6603693762531739503
+    second: cabinet_8
+  - first:
+      213: -1184280282898526997
+    second: cabinet_9
+  - first:
+      213: 3461133652843064548
+    second: plant_7
+  - first:
+      213: 6318385562327008514
+    second: shelf_7
+  - first:
+      213: -8808992055967136833
+    second: bathroom_shelf_2
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 400
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: freezer_1
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 7690
+        width: 358
+        height: 800
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f953b3eeea3135280800000000000000
+      internalID: -9055872783669840481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freezer_2
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 7682
+        width: 358
+        height: 800
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0bdfcc8895113620800000000000000
+      internalID: 2752004592241728267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_sink_1
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 7990
+        width: 350
+        height: 504
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5faf75f10ce15c610800000000000000
+      internalID: 1640751449754827509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_sink_2
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 7990
+        width: 349
+        height: 484
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed3c6523d4225c050800000000000000
+      internalID: 5820095808398607326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_sink_3
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 7990
+        width: 350
+        height: 484
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acbd764de78354020800000000000000
+      internalID: 2325326899987340234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_cupboard_1
+      rect:
+        serializedVersion: 2
+        x: 1986
+        y: 7990
+        width: 350
+        height: 388
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78cc3a5f75d0ac290800000000000000
+      internalID: -7869462727442051961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_cupboard_2
+      rect:
+        serializedVersion: 2
+        x: 2352
+        y: 7990
+        width: 350
+        height: 388
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb776acd55ba8ab80800000000000000
+      internalID: -8383262321087711301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_cupboard_3
+      rect:
+        serializedVersion: 2
+        x: 2715
+        y: 7990
+        width: 353
+        height: 388
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f58ad031217f770800000000000000
+      internalID: 8644397882803773244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_cupboard_4
+      rect:
+        serializedVersion: 2
+        x: 3081
+        y: 7990
+        width: 350
+        height: 388
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 830ca67eba2c45920800000000000000
+      internalID: 2978219297176469560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_cupboard_5
+      rect:
+        serializedVersion: 2
+        x: 3444
+        y: 7990
+        width: 350
+        height: 388
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b91154fbe2c80960800000000000000
+      internalID: 7568513492468177328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stove_1
+      rect:
+        serializedVersion: 2
+        x: 3802
+        y: 7990
+        width: 355
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acf53148c8bf802d0800000000000000
+      internalID: -3312120945001144374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stove_2
+      rect:
+        serializedVersion: 2
+        x: 4190
+        y: 7990
+        width: 354
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 859f4161b1ea94d60800000000000000
+      internalID: 7875016854791846232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stove_3
+      rect:
+        serializedVersion: 2
+        x: 4578
+        y: 7990
+        width: 354
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5369955dce3280b0800000000000000
+      internalID: -5727946724436516002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackboard_1
+      rect:
+        serializedVersion: 2
+        x: 4957
+        y: 7994
+        width: 345
+        height: 346
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b06d81aab4377de0800000000000000
+      internalID: -1335540788313104203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_shelf_1
+      rect:
+        serializedVersion: 2
+        x: 5332
+        y: 8311
+        width: 454
+        height: 167
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24505ca02dbce3ea0800000000000000
+      internalID: -5891047159569775294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_shelf_2
+      rect:
+        serializedVersion: 2
+        x: 5998
+        y: 8261
+        width: 392
+        height: 208
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b49fab648102040800000000000000
+      internalID: 4620719909745806147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rag_3
+      rect:
+        serializedVersion: 2
+        x: 6432
+        y: 8278
+        width: 75
+        height: 162
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49de7923770b29810800000000000000
+      internalID: 1770671629506440596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rag_4
+      rect:
+        serializedVersion: 2
+        x: 6532
+        y: 8294
+        width: 125
+        height: 150
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b0c43c9810859010800000000000000
+      internalID: 1195002119325008051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pot_1
+      rect:
+        serializedVersion: 2
+        x: 5323
+        y: 8186
+        width: 150
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ccdb3340a4f230c0800000000000000
+      internalID: -4597343300431913785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pan_1
+      rect:
+        serializedVersion: 2
+        x: 5494
+        y: 8178
+        width: 217
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e91914b21652c2390800000000000000
+      internalID: -7841851751891103330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bin_1
+      rect:
+        serializedVersion: 2
+        x: 5819
+        y: 7999
+        width: 134
+        height: 262
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a66e111296fba6260800000000000000
+      internalID: 7091691021495559786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: microvawe_1
+      rect:
+        serializedVersion: 2
+        x: 5998
+        y: 8074
+        width: 230
+        height: 150
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b1c5c26a9407430800000000000000
+      internalID: 3778601065421478752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rag_1
+      rect:
+        serializedVersion: 2
+        x: 6273
+        y: 8069
+        width: 134
+        height: 154
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4af03246821f7e9a0800000000000000
+      internalID: -6203724805898563676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rag_2
+      rect:
+        serializedVersion: 2
+        x: 6453
+        y: 8074
+        width: 75
+        height: 166
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0696332324397040800000000000000
+      internalID: 4645801816128656909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pot_2
+      rect:
+        serializedVersion: 2
+        x: 5323
+        y: 8053
+        width: 150
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6335addf2ce25490800000000000000
+      internalID: -7758879517679733905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kettle_1
+      rect:
+        serializedVersion: 2
+        x: 5507
+        y: 7999
+        width: 175
+        height: 166
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8103262b8ae8f15a0800000000000000
+      internalID: -6548358477974982632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom_cabinet_1
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 7261
+        width: 229
+        height: 329
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bdb28c2b9c3c0300800000000000000
+      internalID: 219617118998674866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom_sink_1
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 6948
+        width: 287
+        height: 642
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ab7952cbe94b0030800000000000000
+      internalID: 3461942015491144617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom_shelf_1
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 7290
+        width: 183
+        height: 349
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d645649e7e636a60800000000000000
+      internalID: 7666092480649316049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shower_1
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 6953
+        width: 354
+        height: 687
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9669971103b806450800000000000000
+      internalID: 6080012535518041705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: washing_mashine_1
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 6953
+        width: 288
+        height: 686
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1604333522e641e0800000000000000
+      internalID: -2213833517405305314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom_shelf_3
+      rect:
+        serializedVersion: 2
+        x: 1834
+        y: 7178
+        width: 185
+        height: 461
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d2851aaeeb41f10800000000000000
+      internalID: 2239624829648514345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shower_2
+      rect:
+        serializedVersion: 2
+        x: 2061
+        y: 6953
+        width: 350
+        height: 686
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef51b858e98d2f660800000000000000
+      internalID: 7418229711589545470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom_shelf_4
+      rect:
+        serializedVersion: 2
+        x: 2461
+        y: 7494
+        width: 287
+        height: 109
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ae62e1ff05b9a2d0800000000000000
+      internalID: -3266880974593298784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom_sink_2
+      rect:
+        serializedVersion: 2
+        x: 3011
+        y: 6948
+        width: 345
+        height: 642
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea168b1e8c561f100800000000000000
+      internalID: 140004976880017838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant_6
+      rect:
+        serializedVersion: 2
+        x: 3644
+        y: 7569
+        width: 88
+        height: 121
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11fd71487b87f7670800000000000000
+      internalID: 8538676148108254993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant_5
+      rect:
+        serializedVersion: 2
+        x: 3748
+        y: 7565
+        width: 179
+        height: 229
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9752fb0df843580d0800000000000000
+      internalID: -3421270549630868103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant_4
+      rect:
+        serializedVersion: 2
+        x: 3944
+        y: 7574
+        width: 88
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab365378ea20e2c0800000000000000
+      internalID: -4404473257712534618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant_3
+      rect:
+        serializedVersion: 2
+        x: 4061
+        y: 7574
+        width: 129
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dc4d50b81ff40eb0800000000000000
+      internalID: -4754394825093198633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monitor_1
+      rect:
+        serializedVersion: 2
+        x: 4340
+        y: 7582
+        width: 283
+        height: 250
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bd034780b02e82e0800000000000000
+      internalID: -2121722431889273421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monitor_3
+      rect:
+        serializedVersion: 2
+        x: 4807
+        y: 7561
+        width: 441
+        height: 288
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36afb0996d4e12210800000000000000
+      internalID: 1306576977255987811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sack_2_teddybear
+      rect:
+        serializedVersion: 2
+        x: 5348
+        y: 7561
+        width: 375
+        height: 304
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79e00ee561d2b6110800000000000000
+      internalID: 1255146495257087639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sack_2
+      rect:
+        serializedVersion: 2
+        x: 5794
+        y: 7544
+        width: 379
+        height: 305
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c53ccee0047033a00800000000000000
+      internalID: 734939135901221724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chair_1
+      rect:
+        serializedVersion: 2
+        x: 6319
+        y: 7203
+        width: 296
+        height: 479
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e033e09416e4e1760800000000000000
+      internalID: 7430462614952358670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_1
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 7494
+        width: 154
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8623f23d41d2cc2c0800000000000000
+      internalID: -4410100367636876696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: play_station
+      rect:
+        serializedVersion: 2
+        x: 3665
+        y: 7336
+        width: 96
+        height: 192
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f7360d58fa14c580800000000000000
+      internalID: -8807885317214947342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pc
+      rect:
+        serializedVersion: 2
+        x: 3915
+        y: 7336
+        width: 100
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad03e138640d005d0800000000000000
+      internalID: -3098247542364819238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monitor_2
+      rect:
+        serializedVersion: 2
+        x: 4319
+        y: 7190
+        width: 442
+        height: 333
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a57242003d9a86740800000000000000
+      internalID: 5145549297976354650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sack_1_teddybear
+      rect:
+        serializedVersion: 2
+        x: 5278
+        y: 7198
+        width: 375
+        height: 305
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 693ea22895ccc3960800000000000000
+      internalID: 7583160557393077142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desk_1
+      rect:
+        serializedVersion: 2
+        x: 5740
+        y: 7199
+        width: 516
+        height: 299
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52823fdf2fbfa4010800000000000000
+      internalID: 1174027673944664101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom_towel_3
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 7228
+        width: 179
+        height: 212
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c9f6f9ae6a1bcf50800000000000000
+      internalID: 6902639916475677124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom_shelf_5
+      rect:
+        serializedVersion: 2
+        x: 2461
+        y: 7390
+        width: 287
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb2fbcf2b0689b20800000000000000
+      internalID: 3141367061951753195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heater_1
+      rect:
+        serializedVersion: 2
+        x: 2769
+        y: 7078
+        width: 237
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5331ddbdc431764e0800000000000000
+      internalID: -1988599489633643723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heater_2
+      rect:
+        serializedVersion: 2
+        x: 3373
+        y: 7148
+        width: 213
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 315879998d3dd7af0800000000000000
+      internalID: -396928264895494893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamepad
+      rect:
+        serializedVersion: 2
+        x: 3786
+        y: 7332
+        width: 121
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd038e105a4fa0f10800000000000000
+      internalID: 2236869154481647839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speaker_subwoofer
+      rect:
+        serializedVersion: 2
+        x: 4044
+        y: 7336
+        width: 108
+        height: 121
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36f86309ad19923c0800000000000000
+      internalID: -4383812394360074397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speaker
+      rect:
+        serializedVersion: 2
+        x: 4157
+        y: 7336
+        width: 66
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e62d3d9fd6cc317a0800000000000000
+      internalID: -6407553072103173522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sack_1
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 7182
+        width: 379
+        height: 308
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4723f06eb209f9ee0800000000000000
+      internalID: -1252123653167959436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shelf_1
+      rect:
+        serializedVersion: 2
+        x: 6682
+        y: 7207
+        width: 646
+        height: 187
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 737a5f30363930f20800000000000000
+      internalID: 3387713398190221111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom_towel_1
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 7123
+        width: 75
+        height: 238
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6a49712c4e0a35e0800000000000000
+      internalID: -1929213770232935829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom_towel_2
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 7149
+        width: 179
+        height: 122
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b623e744749c7670800000000000000
+      internalID: 8537862220730803896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bin_2
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 6948
+        width: 162
+        height: 263
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eb7b3e1f80e201c0800000000000000
+      internalID: -4538818569143878686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bin_3
+      rect:
+        serializedVersion: 2
+        x: 1844
+        y: 6948
+        width: 167
+        height: 205
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a6c2593b62459880800000000000000
+      internalID: -8604898484730804567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: washing_mashine_2
+      rect:
+        serializedVersion: 2
+        x: 2461
+        y: 6953
+        width: 287
+        height: 366
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed59c4c1466e0a0e0800000000000000
+      internalID: -2260553695294089762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_2
+      rect:
+        serializedVersion: 2
+        x: 3652
+        y: 7094
+        width: 163
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a2d3fb69e94977d0800000000000000
+      internalID: -2920221616485707096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant_1
+      rect:
+        serializedVersion: 2
+        x: 3882
+        y: 7065
+        width: 191
+        height: 242
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba1811044fbd4740800000000000000
+      internalID: 5137973048696642226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant_2
+      rect:
+        serializedVersion: 2
+        x: 4094
+        y: 7062
+        width: 188
+        height: 241
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a626e1023f2e3b140800000000000000
+      internalID: 4734377167140315754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_3
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 6548
+        width: 216
+        height: 325
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7934b39c08770ac90800000000000000
+      internalID: -7160592012503465065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shelf_2
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 6444
+        width: 246
+        height: 350
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1373000685ca84d80800000000000000
+      internalID: -8266167620470819023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shelf_4
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 6694
+        width: 295
+        height: 138
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d43247d9defd12b0800000000000000
+      internalID: -5612049349060971303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speaker_2
+      rect:
+        serializedVersion: 2
+        x: 1965
+        y: 6603
+        width: 118
+        height: 229
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a42d054f56f12b840800000000000000
+      internalID: 5238283839336403530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cabinet_1
+      rect:
+        serializedVersion: 2
+        x: 2319
+        y: 6457
+        width: 292
+        height: 421
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ef8ffc69e3f2830800000000000000
+      internalID: 4048523407484583566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cabinet_2
+      rect:
+        serializedVersion: 2
+        x: 2652
+        y: 6457
+        width: 288
+        height: 421
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaf3c6d93ed8e7840800000000000000
+      internalID: 5223768626534563758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cabinet_3
+      rect:
+        serializedVersion: 2
+        x: 3007
+        y: 6453
+        width: 283
+        height: 370
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82f54346f478e5360800000000000000
+      internalID: 7160309232618987304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stairs_door_closed
+      rect:
+        serializedVersion: 2
+        x: 4444
+        y: 6040
+        width: 521
+        height: 879
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ee9783ab2dac9a40800000000000000
+      internalID: 5376362458112302818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stairs_door_opened
+      rect:
+        serializedVersion: 2
+        x: 5007
+        y: 6040
+        width: 521
+        height: 879
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8a45149524b1a2f0800000000000000
+      internalID: -963290771789362545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: door_opened
+      rect:
+        serializedVersion: 2
+        x: 5578
+        y: 6040
+        width: 408
+        height: 825
+      alignment: 9
+      pivot: {x: 0.90318626, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40b1e6d75ec7b2df0800000000000000
+      internalID: -203932033021502716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: door_closed
+      rect:
+        serializedVersion: 2
+        x: 6028
+        y: 6036
+        width: 183
+        height: 821
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1e867ffcdb57b850800000000000000
+      internalID: 6392679200812600861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shelf_3
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 6557
+        width: 304
+        height: 121
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f30fa17308035300800000000000000
+      internalID: 239544016065987574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cabinet_5
+      rect:
+        serializedVersion: 2
+        x: 3377
+        y: 6028
+        width: 263
+        height: 657
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b9bdd0da1feae470800000000000000
+      internalID: 8424808951402314166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wardrobe_1
+      rect:
+        serializedVersion: 2
+        x: 3869
+        y: 6030
+        width: 354
+        height: 655
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c9fe4d3b336ab790800000000000000
+      internalID: -7513583922231445048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: couch_1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 6028
+        width: 633
+        height: 362
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6645819ed1febf50800000000000000
+      internalID: 6899217617404642927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chair_3
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 6028
+        width: 421
+        height: 362
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 599798e57b47f2f30800000000000000
+      internalID: 4552986079208765845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chair_2
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 6028
+        width: 412
+        height: 387
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31afa5c054509bb80800000000000000
+      internalID: -8378659837627925997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: couch_2
+      rect:
+        serializedVersion: 2
+        x: 2357
+        y: 6028
+        width: 620
+        height: 387
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d0a30589e566660800000000000000
+      internalID: 7378689047767158073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cabinet_4
+      rect:
+        serializedVersion: 2
+        x: 3027
+        y: 6115
+        width: 284
+        height: 220
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef0f12e4c1585fa0800000000000000
+      internalID: -5811805413072498710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cabinet_6
+      rect:
+        serializedVersion: 2
+        x: 3665
+        y: 6028
+        width: 175
+        height: 479
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61632dcf753500600800000000000000
+      internalID: 432437201596462614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_2
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 5219
+        width: 171
+        height: 583
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11f84e15d76348b40800000000000000
+      internalID: 5441534161643147025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant_8
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 5640
+        width: 188
+        height: 342
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ac7fac09a24ece0800000000000000
+      internalID: -1376928784699635146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant_9
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 5640
+        width: 187
+        height: 338
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf05467d7368bf60800000000000000
+      internalID: 8050293724431060914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pictures_1
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 5669
+        width: 273
+        height: 225
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 775e44249a891bc30800000000000000
+      internalID: 4373444565882168695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_4
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 5648
+        width: 129
+        height: 334
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c852f75dfad82c10800000000000000
+      internalID: 2029112413767489736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shelf_5
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 5661
+        width: 475
+        height: 242
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 962e3e1b7587af470800000000000000
+      internalID: 8429181970619294313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wardrobe_2
+      rect:
+        serializedVersion: 2
+        x: 2365
+        y: 5219
+        width: 475
+        height: 709
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd295e9514f783fd0800000000000000
+      internalID: -2361998085898005797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pictures_2
+      rect:
+        serializedVersion: 2
+        x: 2932
+        y: 5598
+        width: 395
+        height: 221
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9319c1a8a4c925d20800000000000000
+      internalID: 3265844523755671865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shelf_6
+      rect:
+        serializedVersion: 2
+        x: 3602
+        y: 5490
+        width: 305
+        height: 438
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6b2b4817ecc3ea30800000000000000
+      internalID: 4243460566830230379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cabinet_10
+      rect:
+        serializedVersion: 2
+        x: 3952
+        y: 5219
+        width: 359
+        height: 654
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a3ca15520245bd30800000000000000
+      internalID: 4446532784883418025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chair_5
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 5219
+        width: 417
+        height: 388
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bd027eb322c225b0800000000000000
+      internalID: -5394535944861643343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: couch_3
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 5219
+        width: 625
+        height: 388
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 294670d6941861fe0800000000000000
+      internalID: -1218644496795343726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cabinet_7
+      rect:
+        serializedVersion: 2
+        x: 1573
+        y: 5219
+        width: 242
+        height: 363
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8cf0fe7b513a9a00800000000000000
+      internalID: 763977355834227852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cabinet_8
+      rect:
+        serializedVersion: 2
+        x: 1881
+        y: 5219
+        width: 475
+        height: 363
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19835d6c287fa54a0800000000000000
+      internalID: -6603693762531739503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cabinet_9
+      rect:
+        serializedVersion: 2
+        x: 2865
+        y: 5219
+        width: 479
+        height: 354
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec85577b57909fe0800000000000000
+      internalID: -1184280282898526997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant_7
+      rect:
+        serializedVersion: 2
+        x: 3390
+        y: 5219
+        width: 142
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec6cd928ba680030800000000000000
+      internalID: 3461133652843064548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shelf_7
+      rect:
+        serializedVersion: 2
+        x: 3602
+        y: 5290
+        width: 305
+        height: 171
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2054574513a6fa750800000000000000
+      internalID: 6318385562327008514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom_shelf_2
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 7391
+        width: 288
+        height: 248
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb347daa56c20c580800000000000000
+      internalID: -8808992055967136833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tv
+      rect:
+        serializedVersion: 2
+        x: 1777
+        y: 6028
+        width: 525
+        height: 532
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 584fda148cd0f5350800000000000000
+      internalID: 6007535581682070661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

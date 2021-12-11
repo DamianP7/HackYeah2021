@@ -6,7 +6,7 @@ public class LevelManager : Singleton<LevelManager>
 {
 	public float floorHeight;
 
-	public POI stairsUp, stairsDown;
+	public POIStairs stairsUp, stairsDown;
 
 	public Character character;
 }

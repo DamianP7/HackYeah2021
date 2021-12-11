@@ -16,21 +16,22 @@ public class POIObject : POI
 
     [Header("Reactions")]
     public AnimTrigger characterAnimTrigger;
-    public AnimTrigger objectAnimTriggerAction;
-    public AnimTrigger objectAnimTriggerDisable;
+    public ObjectAnimTriggger objectAnimTriggerAction;
+    public ObjectAnimTriggger objectAnimTriggerDisable;
+    public float reactionTimeLimit;
 
-    public bool clickable = false;
 
+    bool clickable = false;
 
     Character character;
     float timer;
+    float reactionTimer;
     bool isTurnOn;
 
     public override void Execute(Character character)
     {
         this.character = character;
 
-        clickable = true;
         character.animator.SetTrigger(characterAnimTrigger.ToString());
         objectAnimator.SetTrigger(objectAnimTriggerAction.ToString());
 
@@ -41,16 +42,23 @@ public class POIObject : POI
     {
         if (canBeDisabledAfterTime)
             timer -= Time.deltaTime;
+        if (clickable)
+            reactionTimer -= Time.deltaTime;
     }
 
     IEnumerator FinishAction()
     {
         yield return new WaitForSeconds(actionTime);
 
-        if (disableWhenFinish)
+        if (disableWhenFinish || character.CheckHabit(action))
         {
             DisableObject();
             clickable = false;
+        }
+        else
+        {
+            clickable = true;
+            reactionTimer = reactionTimeLimit;
         }
 
         character.ExecuteNextAction();
@@ -65,6 +73,12 @@ public class POIObject : POI
     {
         if (!clickable)
             return;
+
+        if (reactionTimer > 0)
+        {
+            character.ReinforceHabit(action);
+
+        }
 
         DisableObject();
     }

@@ -52,6 +52,9 @@ public class Character : MonoBehaviour
 	{
 		if (!IsInPosition(poi.placeOfAction))
 		{
+			Debug.Log("To Do: " + poi.gameObject.name);
+			actionsToDo.Add(poi);
+
 			if (Mathf.Abs(poi.placeOfAction.y - transform.position.y) > LevelManager.Instance.floorHeight)
 			{
 				if (poi.placeOfAction.y < transform.position.y)
@@ -63,11 +66,10 @@ public class Character : MonoBehaviour
 			{
 				WalkTo(poi);
 			}
-
-			actionsToDo.Add(poi);
 		}
 		else
 		{
+			Debug.Log("Executing: " + poi.gameObject.name);
 			poi.Execute(this);
 		}
 	}
@@ -109,7 +111,7 @@ public class Character : MonoBehaviour
 		{
 			animator.SetTrigger(AnimTrigger.Walk.ToString());
 			target = nextPoi.placeOfAction;
-			actionsToDo.Add(nextPoi);
+			target.y = transform.position.y;
 			waitForAction = true;
 		}
 
@@ -121,6 +123,11 @@ public class Character : MonoBehaviour
 			return false;
 		else
 			return true;
+	}
+
+	public void SetVisible(bool visible)
+	{
+
 	}
 
 	public bool CheckHabit(ActionId action)
