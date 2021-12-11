@@ -5,7 +5,8 @@ public enum AnimTrigger
     Idle,
     Walk,
     CleanTeeth,
-
+    SitWatch,
+    SitPlay,
 }
 
 public enum ObjectAnimTriggger

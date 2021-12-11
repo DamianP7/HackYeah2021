@@ -196,7 +196,7 @@ TextureImporter:
     second: washing_mashine_2
   - first:
       213: -7218538012364779372
-    second: Atlas_rzeczy_64
+    second: remote
   - first:
       213: -2920221616485707096
     second: light_2
@@ -244,7 +244,7 @@ TextureImporter:
     second: shelf_3
   - first:
       213: 6007535581682070661
-    second: tv
+    second: shower_2_opened
   - first:
       213: 8424808951402314166
     second: cabinet_5
@@ -262,7 +262,7 @@ TextureImporter:
     second: chair_2
   - first:
       213: 9076237160671093419
-    second: tv
+    second: shower_2_opened
   - first:
       213: 7378689047767158073
     second: couch_2
@@ -286,7 +286,7 @@ TextureImporter:
     second: pictures_1
   - first:
       213: -1754650481771556161
-    second: Atlas_rzeczy_94
+    second: shower_1_opened
   - first:
       213: 2029112413767489736
     second: light_4
@@ -329,6 +329,15 @@ TextureImporter:
   - first:
       213: -8808992055967136833
     second: bathroom_shelf_2
+  - first:
+      213: -28252349718516041
+    second: gamepad_2
+  - first:
+      213: -726261048232719411
+    second: light_switch
+  - first:
+      213: -7828815228487447727
+    second: tootbrush
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -2663,6 +2672,132 @@ TextureImporter:
       bones: []
       spriteID: 584fda148cd0f5350800000000000000
       internalID: 6007535581682070661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: remote
+      rect:
+        serializedVersion: 2
+        x: 6323
+        y: 6803
+        width: 121
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 490d7575ce992db90800000000000000
+      internalID: -7218538012364779372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shower_2_opened
+      rect:
+        serializedVersion: 2
+        x: 6549
+        y: 6182
+        width: 354
+        height: 687
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba220031c9545fd70800000000000000
+      internalID: 9076237160671093419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shower_1_opened
+      rect:
+        serializedVersion: 2
+        x: 7011
+        y: 6179
+        width: 350
+        height: 684
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb2d901feaa36a7e0800000000000000
+      internalID: -1754650481771556161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamepad_2
+      rect:
+        serializedVersion: 2
+        x: 6315
+        y: 6694
+        width: 121
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be25fa33a0ab9ff0800000000000000
+      internalID: -28252349718516041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light_switch
+      rect:
+        serializedVersion: 2
+        x: 6323
+        y: 6586
+        width: 75
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcbc2edac6dcbe5f0800000000000000
+      internalID: -726261048232719411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tootbrush
+      rect:
+        serializedVersion: 2
+        x: 6334
+        y: 6465
+        width: 39
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b46dd47067a5390800000000000000
+      internalID: -7828815228487447727
       vertices: []
       indices: 
       edges: []
