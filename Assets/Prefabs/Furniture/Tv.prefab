@@ -136,7 +136,8 @@ MonoBehaviour:
   POIType: 3
   isFromRight: 1
   action: 0
-  actionTime: 2
+  actionTime: 6
+  animationDelay: 1.5
   objectAnimator: {fileID: 1471268365093947853}
   disableWhenFinish: 0
   collider2D: {fileID: 387745140479607872}

@@ -3,6 +3,6 @@
 
 	public override void Execute(Character character)
 	{
-
+		character.ExecuteNextAction();
 	}
 }

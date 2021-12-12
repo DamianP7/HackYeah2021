@@ -28,10 +28,15 @@ public class Character : MonoBehaviour
 		target = transform.position;
 	}
 
-	void Start()
+	IEnumerator Start()
 	{
 		stairsDown = LevelManager.Instance.stairsDown;
 		stairsUp = LevelManager.Instance.stairsUp;
+
+		animator.SetTrigger(AnimTrigger.Idle.ToString());
+
+		yield return new WaitForSeconds(2);
+
 		ExecuteNextAction();	
 	}
 
@@ -128,6 +133,8 @@ public class Character : MonoBehaviour
 	private bool IsInPosition(Vector3 position)
 	{
 		if (Mathf.Abs(position.x - transform.position.x) > poiDistanceTolerance)
+			return false;
+		else if (Mathf.Abs(position.y - transform.position.y) > LevelManager.Instance.floorHeight)
 			return false;
 		else
 			return true;

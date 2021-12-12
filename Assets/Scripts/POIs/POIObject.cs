@@ -7,6 +7,7 @@ public class POIObject : POI
     [Header("Action")]
     public ActionId action;
     public float actionTime;
+    public float animationDelay = 0;
     public Animator objectAnimator;
     public bool disableWhenFinish;
     [SerializeField] Collider2D collider2D;
@@ -40,9 +41,15 @@ public class POIObject : POI
         this.character = character;
 
         character.animator.SetTrigger(characterAnimTrigger.ToString());
-        objectAnimator.SetTrigger(objectAnimTriggerAction.ToString());
+        StartCoroutine(WaitAndPlayAnimation());
 
         StartCoroutine(FinishAction());
+    }
+
+    IEnumerator WaitAndPlayAnimation()
+    {
+        yield return new WaitForSeconds(animationDelay);
+        objectAnimator.SetTrigger(objectAnimTriggerAction.ToString());
     }
 
     private void Update()
@@ -55,7 +62,7 @@ public class POIObject : POI
 
     IEnumerator FinishAction()
     {
-        yield return new WaitForSeconds(actionTime);
+        yield return new WaitForSeconds(actionTime - 1);
 
         if (disableWhenFinish || character.CheckHabit(action))
         {
@@ -68,6 +75,7 @@ public class POIObject : POI
             reactionTimer = reactionTimeLimit;
         }
 
+        yield return new WaitForSeconds(1);
         character.ExecuteNextAction();
     }
 
